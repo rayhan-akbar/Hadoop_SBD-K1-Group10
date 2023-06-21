@@ -1,6 +1,16 @@
 # Hadoop_SBD-K1-Group10
 
 ---
+## Anggota Kelompok
+```
+1. Muhammad Najih Aflah - 2106653880
+2. Mochammad Dyenta D - 2106731245
+3. Rayhan Akbar Arrizky - 2106632655
+4. Muhammad Fajri Alqomaril - 2106651635
+5. Agung Firmansyah - 2006577454
+```
+---
+---
 ## Table of Contents
 ```
 1. Apa itu Hadoop?
