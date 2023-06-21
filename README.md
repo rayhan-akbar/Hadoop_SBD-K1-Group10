@@ -111,7 +111,7 @@ Langkah-langkah yang perlu dilakukan adalah:
 
 ### Program Word Count dengan Hadoop
 
-![WC-hadoop](./Documentation/WC-hadoop.jpg)
+![WC-hadoop](./Documentation/WC-Hadoop.jpg)
 
 ### Program Word Count tanpa Hadoop
 
