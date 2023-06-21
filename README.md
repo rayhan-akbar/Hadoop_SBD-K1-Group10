@@ -34,27 +34,27 @@ Hadoop environment dikonfigurasi dengan mengedit sekumpulan file konfigurasi yai
 ```
 ### 1. bashrc
 
-![bashrc](./documentation/bashrc.jpg)
+![bashrc](./Documentation/bashrc.jpg)
 
 ### 2. hadoop-env.sh
 
-![env](./documentation/hadoop-env.jpg)
+![env](./Documentation/hadoop-env.jpg)
 
 ### 3. core-site.xml
 
-![core-site](./documentation/core-site.jpg)
+![core-site](./Documentation/core-site.jpg)
 
 ### 4. hdfs-site.xml
 
-![hdfs-site](./documentation/hdfs-site.jpg)
+![hdfs-site](./Documentation/hdfs-site.jpg)
 
 ### 5. mapred-site.xml
 
-![mapred-site](./documentation/mapred-site.jpg)
+![mapred-site](./Documentation/mapred-site.jpg)
 
 ### 6. yarn-site.xml
 
-![yarn-site](./docs/yarn-site.jpg)
+![yarn-site](./Documentation/yarn-site.jpg)
 
 ---
 
@@ -71,23 +71,23 @@ Langkah-langkah yang perlu dilakukan untuk menjalankan program Word Count dengan
 
 ### 1. Memformat NameNode sebelum memulai Hadoop
 
-![namenode-format](./documentation/namenode-format.jpg)
+![namenode-format](./Documentation/namenode-format.jpg)
 
 ### 2. Memulai Hadoop cluster
 
-![start-cluster](./documentation/start-cluster.jpg)
+![start-cluster](./Documentation/start-cluster.jpg)
 
 ### 3. Menempatkan file ujicoba di hadoop
 
-![dfs-put](./documentation/dfs-put.jpg)
+![dfs-put](./Documentation/dfs-put.jpg)
 
 ### 4. Menjalankan program Word Count
 
-![start-WC](./documentation/start-WC.jpg)
+![start-WC](./Documentation/start-WC.jpg)
 
 ### 5. Mendapatkan hasil Word Count
 
-![WC-result](./documentation/WC-result.jpg)
+![WC-result](./Documentation/WC-result.jpg)
 
 ---
 
@@ -111,23 +111,23 @@ Langkah-langkah yang perlu dilakukan adalah:
 
 ### Program Word Count dengan Hadoop
 
-![WC-hadoop](./documentation/WC-hadoop.jpg)
+![WC-hadoop](./Documentation/WC-hadoop.jpg)
 
 ### Program Word Count tanpa Hadoop
 
-![WC-java](./documentation/WC-java.jpg)
+![WC-java](./Documentation/WC-java.jpg)
 
 ### Datasets
 
-![dataset-sample](./documentation/dataset-sample.jpg)
+![dataset-sample](./Documentation/dataset-sample.jpg)
 
 ### Setup Hadoop untuk perbandingan
 
-![hadoop-setup](./documentation/hadoop-setup.jpg)
+![hadoop-setup](./Documentation/hadoop-setup.jpg)
 
 ### Grafik perbandingan
 
-![grafik-perbandingan](./documentation/grafik-perbandingan.jpg)
+![grafik-perbandingan](./Documentation/grafik-perbandingan.jpg)
 
 
 
