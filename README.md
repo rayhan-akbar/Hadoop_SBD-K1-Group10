@@ -119,6 +119,8 @@ Langkah-langkah yang perlu dilakukan adalah:
 
 ### Datasets
 
+link dataset: https://drive.google.com/file/d/14Wgtvllbu1mpDyjF9SmQ9i410lNUkqYK/view?usp=sharing 
+
 ![dataset-sample](./Documentation/dataset-sample.jpg)
 
 ### Setup Hadoop untuk perbandingan
