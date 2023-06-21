@@ -129,6 +129,17 @@ Langkah-langkah yang perlu dilakukan adalah:
 
 ![grafik-perbandingan](./Documentation/grafik-perbandingan.jpg)
 
+---
+## Analisis hasil perbandingan dan kesimpulan
+
+Pada ukuran file yang masih kecil mulai dari 1-500MB, Word Count tanpa hadoop terlihat lebih cepat dibanding word count dengan hadoop.
+Namun berdasarkan grafik yang dihasilkan, dapat dilihat bahwa Word Count tanpa hadoop memiliki peningkatan waktu yang lebih signifikan dibandingkan Word Count dengan hadoop.
+
+### Kesimpulan:
+
+Pada ukuran file yang besar, word count dengan hadoop lebih unggul dibandingkan word count tanpa hadoop
+
+---
 
 
 
