@@ -29,6 +29,25 @@ Hadoop adalah kerangka kerja (framework) open-source yang dirancang untuk mempro
 
 ## Tata cara instalasi Hadoop.
 
+Hal-hal yang perlu diperhatikan ketika instalasi Hadoop adalah:
+```
+1. Sudah meng-install Java 8
+2. Setup Java environment path
+3. Install hadoop melalui link: https://hadoop.apache.org/releases.html
+4. Setup Hadoop environment path
+```
+### Cek versi Java
+
+![java-version](./Documentation/java-version.jpg)
+
+### Setup environment path untuk Java
+
+![java-path](./Documentation/java-path.jpg)
+
+### Setup environment path untuk Hadoop
+
+![hadoop-path](./Documentation/hadoop-path.jpg)
+
 ---
 
 ## Konfigurasi Hadoop
